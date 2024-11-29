@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.yourbynn.byy_appstory"
+    namespace = "com.tugas.StoryApp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.yourbynn.byy_appstory"
+        applicationId = "com.tugas.StoryApp"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
