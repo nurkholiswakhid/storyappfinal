@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name" translatable="false">Byy_AppStory</string>
+    <string name="app_name" translatable="false">StoryApps</string>
     <string name="signup" translatable="false">Sign Up</string>
     <string name="login" translatable="false">Log In</string>
-    <string name="message_welcome_page" translatable="false">Welcome to Yourbynn Story. If you have any questions about the application, please contact the admin!</string>
+    <string name="message_welcome_page" translatable="false">Welcome to  StoryApps. If you have any questions about the application, please contact the admin!</string>
     <string name="title_welcome_page" translatable="false">Welcome!</string>
     <string name="title_signup_page" translatable="false">Please Fill in Your Data</string>
     <string name="email" translatable="false">Email</string>

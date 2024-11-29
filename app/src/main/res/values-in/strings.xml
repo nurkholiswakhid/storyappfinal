@@ -3,7 +3,7 @@
     <string name="app_name" translatable="false">Byy_AppStory</string>
     <string name="signup" translatable="false">Daftar</string>
     <string name="login" translatable="false">Masuk</string>
-    <string name="message_welcome_page" translatable="false">Selamat Datang di Yourbynn Story. Jika ada Pertanyaan tentang aplikasi silahkan hubungi contact admin ya!</string>
+    <string name="message_welcome_page" translatable="false">Selamat Datang di StoryApps. Jika ada Pertanyaan tentang aplikasi silahkan hubungi contact admin ya!</string>
     <string name="title_welcome_page" translatable="false">Selamat Datang!</string>
     <string name="title_signup_page" translatable="false">Silahkan Isi Data Dirimu</string>
     <string name="email" translatable="false">Email</string>

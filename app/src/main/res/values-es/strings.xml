@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Byy_AppStory</string>
+    <string name="app_name" translatable="false">StoryApps</string>
     <string name="signup" translatable="false">Registrarse</string>
     <string name="login" translatable="false">Iniciar sesión</string>
-    <string name="message_welcome_page" translatable="false">¡Bienvenido a Yourbynn Story! Si tienes alguna pregunta sobre la aplicación, ¡contacta al administrador!</string>
+    <string name="message_welcome_page" translatable="false">¡Bienvenido a StoryApps! Si tienes alguna pregunta sobre la aplicación, ¡contacta al administrador!</string>
     <string name="title_welcome_page" translatable="false">¡Bienvenido!</string>
     <string name="title_signup_page" translatable="false">Por favor, completa tus datos</string>
     <string name="email" translatable="false">Correo electrónico</string>
